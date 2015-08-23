@@ -8,5 +8,6 @@ opkg update
 opkg install distribute
 opkg install python-openssl
 opkg install python-bzip2
+opkg install kmod-bluetooth bluez-libs bluez-utils
 easy_install pip
 ```
