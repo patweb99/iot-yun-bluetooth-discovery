@@ -10,4 +10,5 @@ opkg install python-openssl
 opkg install python-bzip2
 opkg install kmod-bluetooth bluez-libs bluez-utils
 easy_install pip
+pip install pygeocode #installs pygeocode
 ```
